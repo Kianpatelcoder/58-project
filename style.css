@@ -1,0 +1,23 @@
+<nav class="navbar-inverse" style="position:sticky;z-index: 15;top:0;"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#list">
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="#">Oberoi International school</a>
+    </div>
+  <div class="collapse navbar-collapse" id="list">
+    <ul class="nav navbar-nav">
+    <li><a href="#welcome">About</a></li>
+     <li><a href="#tournament">My favourite tennis tournament</a></li>
+    <li><a href="#work">My work</a></li>
+     <li><a href="#insperation ">insperation</a></li>  
+    <li><a href="#contact">contact</a></li>
+      </ul>
+    
+    
+    
+    
+    </div>  
+   </nav>
